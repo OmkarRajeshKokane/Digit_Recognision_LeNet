@@ -33,13 +33,14 @@ matplotlib == 3.8.0
   
 ## How to use
 1. Download or clone this repository.
-2. Extract to some location.
-3. First, run **```app.py```** from **```RealTime-DigitRecognition```** folder.<br>
+2. Download mini conda and create a environment mentioned above dependencies including Python version.
+3. Extract to some location.
+4. First, run **```app.py```** from **```Digit_Recognition_LeNet```** folder.<br>
     Now, Pygame window will open. It will look like this.<br><br>
    	![Pygame window](assets/pygame_window.png "Pygame window" )<br><br>
 
-4. Draw the digits on **left** side of the window and output will appear on **right** side of the window. 
-5. Mouse handling:<br>
+5. Draw the digits on **left** side of the window and output will appear on **right** side of the window. 
+6. Mouse handling:<br>
     The **right** button is for resetting screen.<br>
     The **left** button is for drawing.
 
