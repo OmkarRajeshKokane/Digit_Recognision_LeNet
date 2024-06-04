@@ -1,8 +1,3 @@
-###############################################################
-##########          By: suryaveer @IIT Indore         #########
-##########     GITHUB: https://github.com/surya-veer  #########
-###############################################################
-
 import pygame
 from  process_image import get_output_image
 
